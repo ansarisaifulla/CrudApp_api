@@ -3,8 +3,10 @@
 A new Flutter project.
 
 ## Getting Started
-
 This project is a starting point for a Flutter application.
+
+<img src ="ScreenShot/login.jpg" width = 30%  style ="float:left"> <img src ="ScreenShot/regis.jpg" width = 30% style="float:right">  <img src ="ScreenShot/allData.jpg" width = 30% style="float:right">
+
 
 A few resources to get you started if this is your first Flutter project:
 
